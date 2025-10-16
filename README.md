@@ -32,7 +32,7 @@ Sebelum instalasi, pastikan perangkat Anda memenuhi:
 **Untuk instalasi cepat, jalankan perintah berikut di Termux:**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/$(whoami)/install-nethunter-termux/main/install.sh | bash
+curl -fsSL https://raw.githubu.com/install-nethunter-termux/main/install.sh | bash
 ```
 
 Atau manual download:
@@ -40,7 +40,7 @@ Atau manual download:
 ```bash
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/$(whoami)/install-nethunter-termux
+git clone https://github.com/Lynx-was-here/install-nethunter-termux
 cd install-nethunter-termux
 chmod +x install.sh
 ./install.sh
@@ -65,7 +65,7 @@ Step 2: Download Script
 
 ```bash
 # Clone repository
-git clone https://github.com/$(whoami)/install-nethunter-termux
+git clone https://github.com//Lynx-was-here/install-nethunter-termux
 
 # Masuk ke directory
 cd install-nethunter-termux
