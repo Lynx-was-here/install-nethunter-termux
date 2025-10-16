@@ -1,4 +1,4 @@
-jalankan dengan copy : https://github.com/Lynx-was-here/install-nethunter-termux
+jalankan dengan copy : https://github.com/Lynx-was-here/install-nethunter-termux.git
 
 
 
