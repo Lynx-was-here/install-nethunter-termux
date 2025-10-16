@@ -32,7 +32,7 @@ Sebelum instalasi, pastikan perangkat Anda memenuhi:
 **Untuk instalasi cepat, jalankan perintah berikut di Termux:**
 
 ```bash
-curl -fsSL https://raw.githubu.com/install-nethunter-termux/main/install.sh | bash
+curl -fsSL https://raw.github.com/install-nethunter-termux/main/install.sh | bash
 ```
 
 Atau manual download:
